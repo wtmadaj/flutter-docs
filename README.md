@@ -12,3 +12,14 @@ flutter run
 `
 flutter run -t lib/otherFile.dart
 `
+
+### Public vs Private
+Public:
+```dart
+class MyClass
+```
+
+Private:
+```dart
+class _MyClass
+```
