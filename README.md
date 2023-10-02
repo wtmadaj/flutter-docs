@@ -13,6 +13,14 @@ flutter run
 flutter run -t lib/otherFile.dart
 `
 
+### Run, targeting a device
+`
+flutter -v -d macos run
+`
+
+### See available devices
+`flutter devices`
+
 ## Syntax
 
 ### Public vs Private
