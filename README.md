@@ -1,9 +1,21 @@
 # flutter-docs
 My own notes &amp; documentation for flutter
 
+[Running Flutter Apps](#running-flutter-apps)
+- [Run the main dart file](#run-the-main-dart-file)
+- [Run an alternate dart file](#run-an-alternate-dart-file)
+- [Run targeting a device](#run-targeting-a-device)
+- [See available devices](#see-available-devices)<br>
+
+[Syntax](#syntax)
+- [Public vs private](#public-vs-private)
+
+[Elements](#elements)
+- [Buttons](#buttons)
+
 ## Running Flutter Apps
 
-### Runing the main.dart file
+### Run the main dart file
 `
 flutter run
 `
